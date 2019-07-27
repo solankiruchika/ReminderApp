@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "456404923566",
+    "firebase_url": "https://reminderapp-c3921.firebaseio.com",
+    "project_id": "reminderapp-c3921",
+    "storage_bucket": "reminderapp-c3921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456404923566:android:c20805adcb8913ba",
+        "android_client_info": {
+          "package_name": "com.example.reminderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456404923566-vjr3mv1erbo06ptrmak484m7vkejpnb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reminderapp",
+            "certificate_hash": "31da7cd2857f077f9e51b450b5925e08bae3ca41"
+          }
+        },
+        {
+          "client_id": "456404923566-m32anorcre91233kmhk8g0clcu0mv0t3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjiamJNhAlat75KFyoi28JW1W9sDZn6Mk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456404923566-m32anorcre91233kmhk8g0clcu0mv0t3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
